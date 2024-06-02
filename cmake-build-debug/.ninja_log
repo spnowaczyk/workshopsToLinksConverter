@@ -1,0 +1,14 @@
+# ninja log v5
+3	737	7390654482273353	CMakeFiles/workshopsToLinksConverter.dir/main.cpp.obj	f3b116100ba429d8
+737	1265	7390654487495757	workshopsToLinksConverter.exe	4aeb57608299a56c
+0	10	0	clean	b26e0f42c341beb7
+3	810	7390657661991255	CMakeFiles/workshopsToLinksConverter.dir/main.cpp.obj	f3b116100ba429d8
+810	1342	7390657667236497	workshopsToLinksConverter.exe	4aeb57608299a56c
+2	720	7390657930825226	CMakeFiles/workshopsToLinksConverter.dir/main.cpp.obj	f3b116100ba429d8
+720	1183	7390657935375593	workshopsToLinksConverter.exe	4aeb57608299a56c
+5	804	7390658389103515	CMakeFiles/workshopsToLinksConverter.dir/main.cpp.obj	f3b116100ba429d8
+806	1351	7390658394492031	workshopsToLinksConverter.exe	4aeb57608299a56c
+3	696	7390658940881991	CMakeFiles/workshopsToLinksConverter.dir/main.cpp.obj	f3b116100ba429d8
+696	1221	7390658946078204	workshopsToLinksConverter.exe	4aeb57608299a56c
+3	798	7390662398456572	CMakeFiles/workshopsToLinksConverter.dir/main.cpp.obj	f3b116100ba429d8
+798	1296	7390662403376608	workshopsToLinksConverter.exe	4aeb57608299a56c

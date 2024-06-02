@@ -1,0 +1,3 @@
+C:/Dev/workshopsToLinksConverter/cmake-build-debug/CMakeFiles/workshopsToLinksConverter.dir
+C:/Dev/workshopsToLinksConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/workshopsToLinksConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
