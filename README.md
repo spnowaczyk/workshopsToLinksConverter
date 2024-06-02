@@ -21,7 +21,7 @@ If you are user, please look to: How to preprocess .xlsx file.
 # How to preprocess .xlsx file.
 It is important to know, that the input for this program should be preprocessed. Here's an instruction:
 1. First column should contain the name of workshop, and second the link.
-2. If you don't want to add the link to any workshop, and instead print "check later" message, in the second column wite only '&'.
+2. If you don't want to add the link to particular workshop, and instead print "check later" message, in the second column wite only '&'.
 3. If you want to provide the name of the day as a header, in first colum write the '@' sign followed by name of day, and in second '*'.
 4. Download or save the file as .csv
 5. Use online tool like https://www.datablist.com/ to set the delimeter to ';' instead of ',', and delete quote marks (in some cases it may not be necessery, but it is good to do it anyways).
